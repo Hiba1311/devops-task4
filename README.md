@@ -7,7 +7,9 @@ DevOps Task 4
 Build and manage a DevOps project using Git and GitHub best practices including branching, commits, tags, and documentation.
 
 Tools Used
+
 •	Git
+
 •	GitHub
 
  Branch Strategy
@@ -63,5 +65,7 @@ Features Implemented
 Versioning
 
 Git tags are used to track project releases:  
+
 •	git tag -v1.0 
+
 •	git push origin v1.0 
